@@ -4,7 +4,7 @@ nombre = 'Humberto'
 apellido = 'Pérez de la Blanca Osta'
 #Asigno mi apellido a la variable apellido
 
-nombreCompleto = nombre + ' ' + apellido
-#Asigno mi nombre y apellido a la variable nombreCompleto
+nombreCompleto = 'Humberto Pérez de la Blanca Osta'
+#Asigno mi nombre y  apellido a la variable nombreCompleto
 
 print (nombreCompleto [:8])
