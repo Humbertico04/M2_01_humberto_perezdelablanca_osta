@@ -4,7 +4,11 @@ nombre = 'Humberto'
 apellido = 'Pérez de la Blanca Osta'
 #Asigno mi apellido a la variable apellido
 
+print (nombre + apellido)
 #nombre + apellido = 'HumbertoPérez de la Blanca Osta'
+
+print (nombre + apellido + ".")
 #nombre + apellido + "." = 'HumbertoPérez de la Blanca Osta.'
+
+print (nombre * 3)
 #nombre * 3 = 'HumbertoHumbertoHumberto'
-#Estos han sido los resultados obtenidos al probarlo en la consola
